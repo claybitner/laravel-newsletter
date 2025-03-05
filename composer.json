@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-newsletter",
+    "name": "claybitner/laravel-newsletter",
     "description": "Manage Mailcoach and MailChimp newsletters in Laravel",
     "keywords": [
         "laravel",
